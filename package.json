@@ -1,0 +1,28 @@
+{
+  "name": "custom-star-rating",
+  "version": "1.0.1",
+  "description": "A custom star rating component for React",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.7",
+    "@babel/core": "^7.25.7",
+    "@babel/preset-env": "^7.25.7",
+    "@babel/preset-react": "^7.25.7",
+    "prop-types": "^15.8.1"
+  },
+  "keywords": [
+    "react",
+    "star rating",
+    "rating",
+    "component"
+  ],
+  "author": "Aman Poddar <amanpoddar775@gmail.com>",
+  "license": "ISC"
+}
