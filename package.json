@@ -1,6 +1,6 @@
 {
   "name": "custom-star-rating",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A custom star rating component for React",
   "main": "dist/index.js",
   "scripts": {

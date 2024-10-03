@@ -7,11 +7,15 @@ A customizable React component for adding star ratings to your application, with
 
 You can install the package via npm:
 
+```js
 npm install custom-star-rating
+```
 
 Or with Yarn:
 
+```js
 yarn add custom-star-rating
+```
 
 # Publish by
 
