@@ -3,10 +3,6 @@
 custom-star-rating
 A customizable React component for adding star ratings to your application, with flexible properties for rating count, size, color, and optional message displays.
 
-# Preview
-
-![Alt text](./demo/demo.png)
-
 # Installation
 
 You can install the package via npm:
