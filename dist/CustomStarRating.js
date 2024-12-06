@@ -78,7 +78,9 @@ function StarRating(_ref) {
   }, Array.from({
     length: maxRating
   }, function (_, i) {
-    return /*#__PURE__*/_react["default"].createElement("span", null, /*#__PURE__*/_react["default"].createElement(Star, {
+    return /*#__PURE__*/_react["default"].createElement("span", {
+      key: i
+    }, /*#__PURE__*/_react["default"].createElement(Star, {
       onRate: function onRate() {
         return handleRating(i + 1);
       },
